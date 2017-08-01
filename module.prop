@@ -1,0 +1,7 @@
+id=oneplus5NFCSimEnabler
+name=OnePlus 5 NFC Sim Enabler
+version=v1.4
+versionCode=1
+author=snowwolf725
+description=Enable NFC SIM feature for OnePlus 5
+template=4
